@@ -1,6 +1,6 @@
 //use strict because it's good practice
 'use strict'
-
+//initialise array in which to contain the quotes 
 var quotes = [];
 
 // add first quote as object in curly braces
